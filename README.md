@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi, I'm Yannick 👋
 
-<!--
-**DaryanLab/DaryanLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Industrial Automation Engineer from France.
 
-Here are some ideas to get you started:
+I develop open-source software focused on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏃 Endurance sports
+- ⌚ Sports watches
+- 📊 Training planning
+- 🤖 Industrial automation
+- ⚙️ Siemens PLC and CNC systems
+- 💻 Rust, Python, Tauri and Web technologies
+
+---
+
+## Current Project
+
+### Workout Organizer
+
+An open-source desktop application that helps athletes create and manage structured workouts for sports watches.
+
+Current support:
+
+- Garmin Connect
+
+Planned support:
+
+- Coros
+- Polar
+- Suunto
+
+### Main Features
+
+- Workout creation
+- Structured interval builder
+- Multi-profile support
+- Training planning
+- Fast desktop interface
+- Open-source
+
+---
+
+## Technologies
+
+- Rust
+- Tauri
+- JavaScript
+- HTML/CSS
+- Siemens PLC
+- Modbus
+- MQTT
+- Industrial Networking
+- A lot of AI...
+
+---
+
+## Featured Repositories
+
+### Workout Organizer
+
+Build structured workouts and synchronize them with supported sports watch ecosystems.
+
+---
+
+## Connect
+
+- GitHub Projects
+- Open Source Development
+- Endurance Sports Technology
+
+Thanks for visiting my profile.
