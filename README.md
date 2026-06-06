@@ -15,7 +15,7 @@ I develop open-source software focused on:
 
 ## Current Project
 
-### Workout Organizer
+### Workout Organizer for Garmin watchs
 
 An open-source desktop application that helps athletes create and manage structured workouts for sports watches.
 
