@@ -26,8 +26,8 @@ Current support:
 Planned support:
 
 - Coros
-- Polar
 - Suunto
+- Polar
 
 ### Main Features
 
