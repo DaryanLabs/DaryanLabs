@@ -46,6 +46,7 @@ Planned support:
 - Tauri
 - JavaScript
 - HTML/CSS
+- Python
 - Siemens PLC
 - Modbus
 - MQTT
