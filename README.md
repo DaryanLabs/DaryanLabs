@@ -1,6 +1,6 @@
 # Hi, I'm Yannick DARLAVOIX 👋
 
-Industrial Automation Engineer from France.
+Industrial Automation Engineer from France passionate about CNC systems, AI and endurance sports software.
 
 I develop open-source software focused on:
 
