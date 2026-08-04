@@ -17,18 +17,13 @@ I develop open-source software focused on:
 
 ### Workout Organizer for Garmin watchs
 
-An open-source desktop application that helps athletes create and manage structured workouts for sports watches.
+Workout Organizer is an open-source cross-platform application that allows athletes to create professional structured workouts and synchronize them with multiple sports watch ecosystems.
 
 Current support:
 
 - Garmin Connect
-
-Planned support:
-
-- Coros
-- Suunto
-- Polar
-
+- Coros and Suunto throught Intervals.icu
+ 
 ### Main Features
 
 - Workout creation
