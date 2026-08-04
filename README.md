@@ -51,6 +51,10 @@ Current support:
 ---
 
 ## Featured Repositories
+⭐ Workout Organizer
+⭐ GarminWO Extension
+⭐ Spanex
+⭐ Siemens Tools
 
 ### Workout Organizer
 
