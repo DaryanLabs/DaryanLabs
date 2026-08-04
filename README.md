@@ -37,14 +37,12 @@ Current support:
 
 ## Technologies
 
-- Rust
-- Tauri
-- JavaScript
-- HTML/CSS
 - Python
-- Siemens PLC
+- Siemens PLC: S7-200 / S7-300 / s7-1200 / S7-1500
+- Cnc Siemens Sinumerik One
+- Cnc Siemens Sinumerik 840DSl
+- Cnc Siemens Sinumerik PowerLine
 - Modbus
-- MQTT
 - Industrial Networking
 - A lot of AI...
 
