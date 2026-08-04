@@ -1,69 +1,73 @@
-# Hi, I'm Yannick DARLAVOIX 👋
+# Bonjour, je suis Yannick DARLAVOIX 👋
 
-Industrial Automation Engineer from France passionate about CNC systems, AI and endurance sports software.
+Ingénieur en automatisme industriel basé en France, passionné par les systèmes CNC, l'intelligence artificielle et les logiciels dédiés aux sports d'endurance.
 
-I develop open-source software focused on:
+Je développe des logiciels open source autour de :
 
-- 🏃 Endurance sports
-- ⌚ Sports watches
-- 📊 Training planning
-- 🤖 Industrial automation
-- ⚙️ Siemens PLC and CNC systems
-- 💻 Rust, Python, Tauri and Web technologies
+- 🏃 Sports d'endurance
+- ⌚ Montres de sport connectées
+- 📊 Planification et gestion de l'entraînement
+- 🤖 Automatisation industrielle
+- ⚙️ Automates programmables (API) et commandes numériques Siemens
+- 💻 Rust, Python, Tauri et technologies Web
 
 ---
 
-## Current Project
+# Projet actuel
 
-### Workout Organizer for Garmin watchs
+## Workout Organizer pour les montres Garmin
 
-Workout Organizer is an open-source cross-platform application that allows athletes to create professional structured workouts and synchronize them with multiple sports watch ecosystems.
+**Workout Organizer** est une application open source multiplateforme permettant aux sportifs de créer des entraînements structurés professionnels et de les synchroniser avec plusieurs écosystèmes de montres connectées.
 
-Current support:
+### Compatibilité actuelle
 
 - Garmin Connect
-- Coros and Suunto throught Intervals.icu
- 
-### Main Features
+- Coros et Suunto via Intervals.icu
 
-- Workout creation
-- Structured interval builder
-- Multi-profile support
-- Training planning
-- Fast desktop interface
-- Open-source
+### Fonctionnalités principales
+
+- Création d'entraînements
+- Générateur d'intervalles structurés
+- Gestion de plusieurs profils
+- Planification des entraînements
+- Interface de bureau rapide et intuitive
+- Open source
 
 ---
 
-## Technologies
+# Technologies
 
 - Python
-- Siemens PLC: S7-200 / S7-300 / s7-1200 / S7-1500
-- Cnc Siemens Sinumerik One
-- Cnc Siemens Sinumerik 840DSl
-- Cnc Siemens Sinumerik PowerLine
+- Siemens S7-200
+- Siemens S7-300
+- Siemens S7-1200
+- Siemens S7-1500
+- Siemens SINUMERIK ONE
+- Siemens SINUMERIK 840D sl
+- Siemens SINUMERIK Powerline
 - Modbus
-- Industrial Networking
-- A lot of AI...
+- Réseaux industriels
+- Intelligence artificielle (LLM, automatisation, outils d'aide au développement…)
 
 ---
 
-## Featured Repositories
-⭐ Workout Organizer
-⭐ GarminWO Extension
-⭐ Spanex
-⭐ Siemens Tools
+# Dépôts mis en avant
 
-### Workout Organizer
+⭐ Workout Organizer  
+⭐ Extension GarminWO  
+⭐ Spanex  
+⭐ Outils Siemens
 
-Build structured workouts and synchronize them with supported sports watch ecosystems.
+## Workout Organizer
+
+Créez des entraînements structurés et synchronisez-les avec les plateformes de montres de sport compatibles.
 
 ---
 
-## Connect
+# Me retrouver
 
-- GitHub Projects
-- Open Source Development
-- Endurance Sports Technology
+- Projets GitHub
+- Développement Open Source
+- Technologies dédiées aux sports d'endurance
 
-Thanks for visiting my profile.
+Merci de votre visite sur mon profil !
