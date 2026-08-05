@@ -45,6 +45,9 @@ Je développe des logiciels open source autour de :
 - Siemens SINUMERIK ONE
 - Siemens SINUMERIK 840D sl
 - Siemens SINUMERIK Powerline
+- Simatic Manager
+- Siemens Starter
+- Tia Portal
 - Modbus
 - Réseaux industriels
 - Intelligence artificielle (LLM, automatisation, outils d'aide au développement…)
