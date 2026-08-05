@@ -1,6 +1,6 @@
 # Bonjour, je suis Yannick DARLAVOIX 👋
 
-Ingénieur en automatisme industriel basé en France, passionné par les systèmes CNC, l'intelligence artificielle et les logiciels dédiés aux sports d'endurance.
+Passionné par les systèmes CNC, l'automatisme industriel basé en France, l'intelligence artificielle et les logiciels dédiés aux sports d'endurance.
 
 Je développe des logiciels open source autour de :
 
@@ -15,7 +15,7 @@ Je développe des logiciels open source autour de :
 
 # Projet actuel
 
-## Workout Organizer pour les montres Garmin
+## Workout Organizer pour les montres Garmin 
 
 **Workout Organizer** est une application open source multiplateforme permettant aux sportifs de créer des entraînements structurés professionnels et de les synchroniser avec plusieurs écosystèmes de montres connectées.
 
@@ -48,6 +48,7 @@ Je développe des logiciels open source autour de :
 - Simatic Manager
 - Siemens Starter
 - Tia Portal
+- Step7-MicroWIN Smart
 - Modbus
 - Réseaux industriels
 - Intelligence artificielle (LLM, automatisation, outils d'aide au développement…)
@@ -56,9 +57,9 @@ Je développe des logiciels open source autour de :
 
 # Dépôts mis en avant
 
-⭐ Workout Organizer  
-⭐ Extension GarminWO  
-⭐ Spanex  
+⭐ Workout Organizer:  [https://github.com/DaryanLab/workout-organizer](url)  
+⭐ Extension GarminWO: [https://chromewebstore.google.com/search/garminwo?hl=fr&utm_source=ext_sidebar](url)  
+⭐ Spanex: [https://github.com/DaryanLab/Spanex](url)  
 ⭐ Outils Siemens
 
 ## Workout Organizer
