@@ -15,9 +15,9 @@ Je développe des logiciels open source autour de :
 
 # Projet actuel
 
-## Workout Organizer pour les montres Garmin 
+## Running Workout Organizer pour les montres Garmin 
 
-**Workout Organizer** est une application open source multiplateforme permettant aux sportifs de créer des entraînements structurés professionnels et de les synchroniser avec plusieurs écosystèmes de montres connectées.
+**Running Workout Organizer** est une application open source multiplateforme permettant aux sportifs de créer des entraînements structurés professionnels et de les synchroniser avec plusieurs écosystèmes de montres connectées.
 
 ### Compatibilité actuelle
 
