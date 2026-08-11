@@ -49,6 +49,7 @@ Je développe des logiciels open source autour de :
 - Siemens Starter
 - Tia Portal
 - Step7-MicroWIN Smart
+- Profinet
 - Modbus
 - Réseaux industriels
 - Intelligence artificielle (LLM, automatisation, outils d'aide au développement…)
