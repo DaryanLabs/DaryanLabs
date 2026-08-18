@@ -52,6 +52,7 @@ Je développe des logiciels open source autour de :
 - Profinet
 - Modbus
 - Réseaux industriels
+- Robotique Kuka KRC4
 - Intelligence artificielle (automatisation, outils d'aide au développement…)
 
 ---
