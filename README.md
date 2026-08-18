@@ -52,7 +52,7 @@ Je développe des logiciels open source autour de :
 - Profinet
 - Modbus
 - Réseaux industriels
-- Intelligence artificielle (LLM, automatisation, outils d'aide au développement…)
+- Intelligence artificielle (automatisation, outils d'aide au développement…)
 
 ---
 
