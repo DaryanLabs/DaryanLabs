@@ -1,6 +1,6 @@
 # Bonjour, je suis Yannick DARLAVOIX 👋
 
-Passionné par les systèmes CNC, l'automatisme industriel basé en France, l'intelligence artificielle et les logiciels dédiés aux sports d'endurance.
+Passionné par les systèmes CNC, l'automatisme industriel, l'intelligence artificielle et les logiciels dédiés aux sports d'endurance.
 
 Je développe des logiciels open source autour de :
 
