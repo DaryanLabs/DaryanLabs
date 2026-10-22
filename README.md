@@ -60,8 +60,7 @@ Je développe des logiciels open source autour de :
 # Dépôts mis en avant
 
 ⭐ Workout Organizer:  [https://github.com/DaryanLab/workout-organizer](url)  
-⭐ Extension GarminWO: [https://chromewebstore.google.com/detail/garmin-workout-%E2%80%94-import-s/amlgfnkjdpandddidpmnjdeogcoanoia](url) 
-
+⭐ Extension GarminWO: [https://github.com/DaryanLabs/garminwo-extension](url) 
 ⭐ Spanex: [https://github.com/DaryanLab/Spanex](url)  
 ⭐ Outils Siemens
 
