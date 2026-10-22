@@ -57,12 +57,6 @@ Je développe des logiciels open source autour de :
 
 ---
 
-## Workout Organizer
-
-Créez des entraînements structurés et synchronisez-les avec les plateformes de montres de sport compatibles.
-
----
-
 # Me retrouver
 
 - Strava : [https://www.strava.com/athletes/ydarlavoix](url)
