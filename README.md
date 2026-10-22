@@ -72,6 +72,7 @@ Créez des entraînements structurés et synchronisez-les avec les plateformes d
 
 # Me retrouver
 
+- Strava : [https://www.strava.com/athletes/ydarlavoix](url)
 - Projets GitHub
 - Développement Open Source
 - Technologies dédiées aux sports d'endurance
