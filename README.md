@@ -57,13 +57,6 @@ Je développe des logiciels open source autour de :
 
 ---
 
-# Dépôts mis en avant
-
-⭐ Workout Organizer:  [https://github.com/DaryanLab/workout-organizer](url)  
-⭐ Extension GarminWO: [https://github.com/DaryanLabs/garminwo-extension](url) 
-⭐ Spanex: [https://github.com/DaryanLab/Spanex](url)  
-⭐ Outils Siemens
-
 ## Workout Organizer
 
 Créez des entraînements structurés et synchronisez-les avec les plateformes de montres de sport compatibles.
