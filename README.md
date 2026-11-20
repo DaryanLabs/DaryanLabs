@@ -2,14 +2,16 @@
 
 Passionné par les systèmes CNC, l'automatisme industriel, l'intelligence artificielle et les logiciels dédiés aux sports d'endurance.
 
-Je développe des logiciels open source autour de :
+J'associe mon expérience en ingénierie industrielle à mes compétences en développement logiciel pour concevoir des solutions pratiques, innovantes et open source.
 
-- 🏃 Sports d'endurance
-- ⌚ Montres de sport connectées
-- 📊 Planification et gestion de l'entraînement
-- 🤖 Automatisation industrielle
-- ⚙️ Automates programmables (API) et commandes numériques Siemens
-- 💻 Rust, Python, Tauri et technologies Web
+### Mes domaines d'intérêt
+
+- 🏭 **Automatisme industriel :** systèmes de contrôle industriel et technologies CNC.
+- 🤖 **Technologies Siemens :** programmation d'automates et robotique industrielle.
+- 🏃 **Sports d'endurance :** course à pied et montres connectées.
+- ⌚ **Logiciels sportifs :** création de programmes d'entraînement et automatisation des séances.
+- 💻 **Développement logiciel :** applications de bureau multiplateformes et technologies web.
+- ⚙️ **Technologies :** Python, Rust, Tauri et outils de développement assistés par l'intelligence artificielle.
 
 ---
 
