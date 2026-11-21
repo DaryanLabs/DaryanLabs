@@ -61,7 +61,7 @@ J'associe mon expérience en ingénierie industrielle à mes compétences en dé
 
 # Me retrouver
 
-- Strava : [https://www.strava.com/athletes/ydarlavoix](url)
+- Strava : [https://www.strava.com/athletes/ydarlavoix](https://www.strava.com/athletes/ydarlavoix)
 - Projets GitHub
 - Développement Open Source
 - Technologies dédiées aux sports d'endurance
